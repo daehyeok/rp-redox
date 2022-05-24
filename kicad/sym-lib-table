@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "redox_rev1-rescue")(type "Legacy")(uri "${KIPRJMOD}/redox_rev1-rescue.lib")(options "")(descr "")(disabled))
+  (lib (name "redox_rev2_recovery-rescue")(type "Legacy")(uri "${KIPRJMOD}/redox_rev2_recovery-rescue.lib")(options "")(descr ""))
+  (lib (name "rp2040_zero")(type "KiCad")(uri "${KIPRJMOD}/lib/rp2040-zero.kicad_sym")(options "")(descr ""))
+)

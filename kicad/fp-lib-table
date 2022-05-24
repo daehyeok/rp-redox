@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "kbd")(type "KiCad")(uri "/home/philippe/Documents/KiCad_libraries/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "Kailh")(type "KiCad")(uri "/home/philippe/Documents/KiCad_libraries/kicad-footprints/Kailh.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "/home/philippe/Documents/KiCad_libraries/kicad-footprints/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "redox_w_transmitters_v2")(type "KiCad")(uri "${KIPRJMOD}/redox_w_transmitters_v2.pretty")(options "")(descr ""))
+  (lib (name "pico")(type "KiCad")(uri "${KIPRJMOD}/lib/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+)
